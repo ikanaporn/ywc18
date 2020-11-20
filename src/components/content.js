@@ -9,12 +9,6 @@ class Content extends Component {
         super(props);
         
     }
-    
-    
-    componentDidMount=()=>{
-
-        console.log("Compo  l l ll l  ::: ",this.props.items.merchants)
-    }
 
     render() {
         if (!this.props.items) {
