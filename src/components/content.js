@@ -3,6 +3,7 @@ import CategoriesList from "./store/categoriesList";
 import '../App.js';
 import ReactHtmlParser from 'react-html-parser';
 
+
 class Content extends Component {
 
     constructor(props) {
