@@ -61,7 +61,8 @@ class header extends Component {
                     <div className="row">
                         <div className="col" style={{backgroundColor:"#2B3876", padding:"0.7%"}}>
                             <div className="row justify-content-start" style={{marginLeft:'7%', color: "white"}}>
-                                <h7>หน้าแรก</h7>
+                                <h7><u>หน้าแรก</u>  /  <b>ค้นหา</b></h7>
+                                
                                 
                             </div>
 

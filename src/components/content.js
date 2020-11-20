@@ -23,8 +23,6 @@ class Content extends Component {
         const styleImgCar = {width:'7%',height:'7%',backgroundColor:"#5DC239", margin: '0.5%',padding: '0.5%',}
         const styleImgRes = {width:'7%',height:'7%',backgroundColor:"#5DC239", margin: '0.5%',padding: '1%',}
         
- 
-       
         return (
             <div className="container-fluid" style={{backgroundColor: '#9DD7FB'}}>
                 <div className="row">
