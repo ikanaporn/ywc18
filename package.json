@@ -1,7 +1,8 @@
 {
-  "homepage": "https://ikanaporn.github.io/ywc18hw.git",
+  
   "name": "ywc18",
   "version": "0.1.0",
+  "homepage": "https://ikanaporn.github.io/ywc18hw",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
