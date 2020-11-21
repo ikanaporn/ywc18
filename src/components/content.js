@@ -195,7 +195,7 @@ class Content extends Component {
                             </div>
                         ))}
                         <div style={{width:'40%', justifyContent: 'center', marginLeft: '30%',marginRight: '30%'}}>
-                            <button type="button" class="btn btn-secondary btn-md btn-block">ดูเพิ่มเติม</button>
+                            <button type="button" class="btn btn-light btn-md btn-block">ดูเพิ่มเติม</button>
                         </div>
                     </div>
                     
